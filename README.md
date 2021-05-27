@@ -2,7 +2,7 @@
 
 `Julia` implementation of the Proximal Alternating Linearized Minimization (PALM) method for Sylvester Graphical (SG) model.
 
-Paper: Y. Wang, A. O. Hero. SG-PALM: a Fast Physically Interpretable Tensor Graphical Model. To appear in ICML'21. 
+Paper: Y. Wang, A. O. Hero. SG-PALM: a Fast Physically Interpretable Tensor Graphical Model. To appear in ICML'21. https://arxiv.org/abs/2105.12271 
 
 Required: Julia 1.5
 
